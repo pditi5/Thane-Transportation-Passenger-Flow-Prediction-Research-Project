@@ -74,5 +74,5 @@ This project report is submitted in partial fulfillment for the degree of **B.Te
 
 Feel free to reach out if you have any questions or feedback!
 
-🔗 [LinkedIn](https://www.linkedin.com/in/ditishaileshpatel/) | [GitHub](https://github.com/pditi5)
+🔗 [LinkedIn](https://www.linkedin.com/in/ditishaileshpatel/)
 
